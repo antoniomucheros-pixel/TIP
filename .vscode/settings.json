@@ -1,0 +1,35 @@
+{
+	"cmake.buildDirectory": "${workspaceFolder}/build",
+	"files.exclude": {
+		"**/build": true,
+		"**/dist": true,
+		"**/out": true,
+		"**/bin": true,
+		"**/obj": true,
+		"**/*.exe": true,
+		"**/*.obj": true,
+		"**/*.ilk": true,
+		"**/*.pdb": true,
+		"**/__pycache__": true
+	},
+	"search.exclude": {
+		"**/build": true,
+		"**/dist": true,
+		"**/out": true,
+		"**/bin": true,
+		"**/obj": true,
+		"**/*.exe": true,
+		"**/*.obj": true,
+		"**/*.ilk": true,
+		"**/*.pdb": true,
+		"**/__pycache__": true
+	},
+	"files.watcherExclude": {
+		"**/build/**": true,
+		"**/dist/**": true,
+		"**/out/**": true,
+		"**/bin/**": true,
+		"**/obj/**": true,
+		"**/__pycache__/**": true
+	}
+}
